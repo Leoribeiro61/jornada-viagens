@@ -1,3 +1,17 @@
+
+:root{
+    --background-primary-color: #ffffff;
+    --background-secundary-color:#f5f5f5;
+    --background-tertiary-color: #000000;
+
+    --butoon-primary-color: #8f0101; 
+    --butoon-primary-color: #b81515; 
+
+    --text-primary-color: #222222;
+    --text-secundary-color: #FFFFFF;
+
+}
+
 /* CSS RESET*/ 
 body, img, h1, p, fieldset, legend, label, input, select, textarea, button{
     margin: 0;
