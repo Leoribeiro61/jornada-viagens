@@ -6,8 +6,8 @@
 }
 
 :root {
-  ---primary-color: #8f0101;
-  ---secundary-color: #b81515;
+  --primary-color: #8f0101;
+  --secundary-color: #b81515;
 
   --background-primary-color: #ffffff;
   --background-secundary-color: #f5f5f5;
@@ -38,6 +38,6 @@ button {
   box-sizing: border-box;
 }
 
-body{
+body {
   font-family: "Montserrat";
 }
