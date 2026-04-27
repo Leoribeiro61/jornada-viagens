@@ -1,4 +1,4 @@
-header {
+.main-header {
   background-color: var(--background-tertiary-color);
   display: flex;
   flex-direction: row;
@@ -53,6 +53,10 @@ nav {
   font-size: 24px;
 }
 
+.list-links li a.active {
+  text-decoration: underline;
+}
+
 @media screen and (min-width: 768px) {
   .navigation-menu {
     margin-top: 0;
@@ -76,7 +80,7 @@ nav {
 }
 
 @media screen and (min-width: 1024px) {
-  header {
+  .main-header {
     padding: 38px 120px;
   }
   .logo {
@@ -89,13 +93,13 @@ nav {
   .img-mobile {
     display: none;
   }
-  .navigation-menu a:hover{
+  .navigation-menu a:hover {
     color: var(--primary-color);
   }
 }
 
 @media screen and (min-width: 1920px) {
-  header {
-    padding: 38px 165px;
+  .main-header {
+    padding: 38px 160px;
   }
 }
