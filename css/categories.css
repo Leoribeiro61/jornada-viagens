@@ -9,18 +9,13 @@
 .categories-cards .card {
   width: 312px;
   height: 220px;
-  background-color: var(--background-secondary-color);
+  background-color: var(--background-secundary-color);
   text-align: center;
   border-radius: 16px;
   padding: 24px;
   box-sizing: border-box;
   text-decoration: none;
   color: var(--text-primary-color);
-}
-
-.categories-cards .card h3 {
-  font-size: 28px;
-  font-weight: var(--title-weight);
 }
 
 /*trick*/
