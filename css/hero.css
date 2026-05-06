@@ -32,8 +32,8 @@
   background: url(../img/travel-packages/japan-bg-hero-tablet.png) no-repeat;
   background-size: cover;
 }
-.travel-packages .bottom-hero .hero-img {
-  background: url(../img/travel-packages/japan-bg-bottom-hero-mobile.png)
+.travel-packages.bottom-hero .hero-img {
+  background: url(../img/travel-packages/japan-bg-bottom-hero-tablet.png)
     no-repeat;
   background-size: cover;
 }
